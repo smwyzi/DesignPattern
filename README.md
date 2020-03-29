@@ -1,2 +1,2 @@
 # DesignPattern
-23 desigh patterns writen in c++ and can be learned and executed directly
+23 design patterns written in c++
